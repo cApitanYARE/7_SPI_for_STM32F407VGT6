@@ -1,0 +1,5 @@
+../Core/Src/main.c:65:9:Apply_Moving_Average	24	static
+../Core/Src/main.c:77:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:88:5:main	56	static
+../Core/Src/main.c:179:6:SystemClock_Config	88	static
+../Core/Src/main.c:229:6:Error_Handler	4	static,ignoring_inline_asm
